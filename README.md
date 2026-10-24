@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 <p align="center">
-  <a href="https://github.com/ffne4">
+  <a href="https://github.com/wanswa-drake">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=44&height=90&width=1082&text=Hello!%20I'm%20DRAKE%20WANSWA" alt="Hello! I'm DRAKE WANSWA" />
   </a>
 </p>
@@ -90,12 +90,12 @@ I am a Computer Science student with a strong passion for Artificial Intelligenc
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ffne4&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ffne4&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=wanswa-drake&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=wanswa-drake&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ffne4&theme=tokyonight&hide_border=true&stroke=2ea043&ring=2ea043&fire=2ea043&currStreakNum=2ea043" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wanswa-drake&theme=tokyonight&hide_border=true&stroke=2ea043&ring=2ea043&fire=2ea043&currStreakNum=2ea043" alt="GitHub Streak" />
 </p>
 
 ---
@@ -103,7 +103,7 @@ I am a Computer Science student with a strong passion for Artificial Intelligenc
 ### Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ffne4&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wanswa-drake&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -111,7 +111,7 @@ I am a Computer Science student with a strong passion for Artificial Intelligenc
 ### GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ffne4&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wanswa-drake&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -131,7 +131,7 @@ I am a Computer Science student with a strong passion for Artificial Intelligenc
   <a href="https://twitter.com/drakewanswa" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://github.com/ffne4" target="_blank">
+  <a href="https://github.com/wanswa-drake" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -149,11 +149,11 @@ I am a Computer Science student with a strong passion for Artificial Intelligenc
 ### Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ffne4&label=Profile%20Views&color=2ea043&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=wanswa-drake&label=Profile%20Views&color=2ea043&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
 <p align="center">
-  <i>From <a href="https://github.com/ffne4">ffne4</a></i>
+  <i>From <a href="https://github.com/wanswa-drake">wanswa-drake</a></i>
 </p>
